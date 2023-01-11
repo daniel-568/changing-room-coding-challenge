@@ -1,4 +1,4 @@
-A to-do list that sorts tasks by deadlines (for simplicity's sake - dated by month-day agnostic to the year and hour/minutes/seconds).
+A to-do list that sorts tasks by deadlines (ordered and dated by month-day).
 
 ### Setup
 
