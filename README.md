@@ -2,10 +2,10 @@ A to-do list that sorts tasks by deadlines (ordered and dated by month-day).
 
 ### Setup
 
-Activate it (Linux)
+Activate the environment (macOS/Linux)
 
 ```console
-$ source ./venv/bin/activate
+$ source . venv/bin/activate
 ```
 
 Install Requirements
