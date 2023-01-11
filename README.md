@@ -2,14 +2,6 @@ A to-do list that sorts tasks by deadlines (for simplicity's sake - dated by mon
 
 ### Setup
 
-Create project with virtual environment
-
-```console
-$ mkdir myproject
-$ cd myproject
-$ python3 -m venv venv
-```
-
 Activate it (Linux)
 
 ```console
