@@ -26,4 +26,4 @@ The template uses Jinja2 syntax to loop through the list of to-do items and disp
 
 Data is stored through SQLAlchemy and SQLite database. The application is configured to connect to a SQLite database named "db.sqlite". The app has routes for handling the different actions (creating, reading, updating, and deleting).
 
-It's worth noting that the data is stored in a SQLite Database, which is a lightweight file-based Database, it's good for small-scale and development use cases, However it's not suggested to use it in Production.
+It's worth noting that SQLite Database is a lightweight file-based database, which is good for small-scale and development use cases. However, it's not suggested to use it in production.
