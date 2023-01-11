@@ -20,6 +20,8 @@ Run the app
 $ flask run
 ```
 
+### Description
+
 Users are able to create new tasks with title and deadline, mark them as complete or incomplete, and to delete them as well.
 
 The template uses Jinja2 syntax to loop through the list of to-do items and displays the title, deadline, and completion status of each item. It also includes links to update or delete the item.
