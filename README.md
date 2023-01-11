@@ -8,6 +8,12 @@ Activate the environment (macOS/Linux)
 $ source . venv/bin/activate
 ```
 
+Activate the environment (Windows)
+
+```console
+$ source . venv\Scripts\activate
+```
+
 Install Requirements
 
 ```console
