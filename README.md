@@ -5,7 +5,7 @@ A to-do list that sorts tasks by deadlines (for simplicity's sake - dated by mon
 Activate it (Linux)
 
 ```console
-$ . venv/bin/activate
+$ source ./venv/bin/activate
 ```
 
 Install Requirements
